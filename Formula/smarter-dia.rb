@@ -3,8 +3,8 @@ class SmarterDia < Formula
 
   desc "Dia AI Intelligence & Sandbox Supercharger"
   homepage "https://github.com/ganidhu/smarter-dia"
-  url "https://github.com/ganidhu/smarter-dia/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "5bc64013c73133c2f36ecde9718e65f53f929af4d897695f8d4353ec9f61b1ce"
+  url "https://github.com/ganidhu/smarter-dia/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "c5f2fd52641999e81d186b3aba600d7747072362bef49e2b4263516539c7650c"
   license "MIT"
 
   depends_on "python@3.14"
